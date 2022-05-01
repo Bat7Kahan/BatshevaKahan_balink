@@ -1,0 +1,19 @@
+{
+    "Language": "עברית",
+    "Id": "מספר זיהוי",
+    "First Name": "שם פרטי",
+    "Last Name": "שם משפחה", 
+    "Age": "גיל",
+    "Phone": "טלפון",
+    "Edit User": "עריכת משתמש",
+    "Add User": "הוספת משתמש",
+    "Add": "הוספה", 
+    "Edit": "עריכה",
+    "No users found": "לא נמצאו משתמשים",
+    "First Name is required": "שם פרטי הינו שדה חובה",
+    "Last Name is required": "שם משפחה הינו שדה חובה",
+    "Age is required": "גיל הינו שדה חובה",
+    "Invalid age": "גיל אינו תקני - חייב להיות בין 0 ל-120",
+    "Phone is required":"מספר טלפון הינו שדה חובה",
+    "Invalid phone": "מספר טלפון - אינו תקני: מספר מדי ארוך"
+}

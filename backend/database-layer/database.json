@@ -1,0 +1,30 @@
+{ "users": [
+    {
+        "id": "1", 
+        "firstName": "Alfred", 
+        "lastName": "Penny",
+        "age":"25",
+        "phone":"0585468755"
+    },
+    {
+        "id": "2", 
+        "firstName": "Harel", 
+        "lastName": "Wisco",
+        "age":"30",
+        "phone":"0586485784"
+    },
+    {
+        "id": "3", 
+        "firstName": "Jane", 
+        "lastName": "Doe",
+        "age":"28",
+        "phone":"0524875426"
+    },
+    {
+        "id": "4", 
+        "firstName": "Viktor", 
+        "lastName": "Wisco",
+        "age":"35",
+        "phone":"0524875426"
+    }
+]}

@@ -1,0 +1,19 @@
+{
+    "Language": "English",
+    "Id": "Id",
+    "First Name": "First Name",
+    "Last Name": "Last Name", 
+    "Age": "Age",
+    "Phone": "Phone",
+    "Edit User": "Edit User",
+    "Add User": "Add User",
+    "Add": "Add", 
+    "Edit": "Edit",
+    "No users found": "No users found",
+    "First Name is required": "First Name is required",
+    "Last Name is required": "Last Name is required",
+    "Age is required": "Age is required",
+    "Invalid age": "Invalid age - must be between 0 and 120",
+    "Phone is required":"Phone is required",
+    "Invalid phone": "Invalid phone - too long"
+}
